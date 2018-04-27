@@ -5,14 +5,14 @@
 $ gcc -o jall jall.c<br/>
 $ ./jall
 
-Commands you can use are: \n
-			pwd	: Show current working directory from root.\n
-		  ls	: List of all directories and files.\n
-			echo: You can echo anything.\n
-			cd 	: Change directory.\n
-			exit : Exit the shell.\n
-			clear : clear screen\n
-			help : Help text\n
-			AND MANY MORE\n
+Commands you can use are:<br/>
+			pwd	: Show current working directory from root.<br/>
+		        ls	: List of all directories and files.<br/>
+			echo: You can echo anything.<br/>
+			cd 	: Change directory.<br/>
+			exit : Exit the shell.<br/>
+			clear : clear screen<br/>
+			help : Help text<br/>
+			AND MANY MORE<br/>
 
 
