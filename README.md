@@ -5,7 +5,7 @@
 $ gcc -o jall jall.c<br/>
 $ ./jall
 
-Commands you can use are:<br/>
+# Commands you can use are:<br/>
 			pwd	: Show current working directory from root.<br/>
 		        ls	: List of all directories and files.<br/>
 			echo: You can echo anything.<br/>
@@ -14,5 +14,6 @@ Commands you can use are:<br/>
 			clear : clear screen<br/>
 			help : Help text<br/>
 			AND MANY MORE<br/>
+
 
 
