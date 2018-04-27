@@ -1,6 +1,10 @@
-# Jall
-<b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.
-<br/>
+# Just Another Shell
+Jall is the <b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.<br/>
+
+# Prerequisites
+	<ul> GCC compiler
+	<ul> Text editor
+
 # How to run
 	$ gcc -o jall jall.c<br/>
 	$ ./jall
