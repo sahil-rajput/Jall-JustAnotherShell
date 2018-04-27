@@ -1,10 +1,6 @@
 # Just Another Shell
 Jall is the <b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.<br/>
 
-# Prerequisites
-	GCC compiler
-	Text editor
-
 # How to run
 	$ gcc -o jall jall.c<br/>
 	$ ./jall
