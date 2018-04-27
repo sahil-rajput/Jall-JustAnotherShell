@@ -21,5 +21,5 @@ Jall is the <b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.<br/>
 			help : Help text<br/>
 			AND MANY MORE<br/>
 # Refrence
-	https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/
 
