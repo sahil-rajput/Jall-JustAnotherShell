@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/20112458/39353616-d86b4c20-4a25-11e8-9a14-aba56e87a083.png" width="100" height="100"/>
-<h1>Just Another Shell 
+<h1>JALL
 </h1>
 Jall is the <b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.<br/>
 
