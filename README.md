@@ -2,8 +2,8 @@
 Jall is the <b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.<br/>
 
 # Prerequisites
-	<ul> GCC compiler
-	<ul> Text editor
+	GCC compiler
+	Text editor
 
 # How to run
 	$ gcc -o jall jall.c<br/>
