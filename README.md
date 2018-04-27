@@ -1,4 +1,5 @@
-# Just Another Shell
+# Just Another Shell ![command-prompt-png-image-80168](https://user-images.githubusercontent.com/20112458/39353616-d86b4c20-4a25-11e8-9a14-aba56e87a083.png)
+
 Jall is the <b>J</b>ust <b>A</b>nother She<b>ll</b> implemented in C.<br/>
 
 # How to run
